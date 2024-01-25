@@ -1,1 +1,3 @@
-# PrepCourse-Henry-2-readme
+
+
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde  github hacia mi computadora
